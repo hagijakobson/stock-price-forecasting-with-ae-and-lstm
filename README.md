@@ -1,1 +1,1 @@
-# stock-price-forecasting-with-ae-and-lstm
+# Stock Price Forecasting with Long Short-Term Memory Network and Feature Extraction by Autoencoders
